@@ -1,0 +1,64 @@
+/* Theme */
+
+
+.nn {
+    /*color: #ffffff;*/
+    background-image: url(nn.jpg);
+    opacity: 0.8;
+    width: 100%;
+    /*max-width: auto;*/
+    animation: myAnim 3s ease 0s 1 normal forwards;
+    /*overflow: hidden;
+    /*background-size: cover;*/
+    position: fixed;
+}
+
+main {
+
+	position: relative;
+   
+}
+
+
+.icons-social a {
+	color: #cceb1e;
+}
+
+.icons-social a svg path{
+	fill: #ad02bd;
+}
+
+/* effet animé */
+
+@keyframes myAnim {
+	0% {
+		background-position: 50% 100%;
+	}
+
+	100% {
+		background-position: 50% 0%;
+	}
+}
+
+
+
+@keyframes myAnim1 {
+	0% {
+		transform: scale(0.5);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
+
+
+.bordure {
+    border-radius: 14px;
+    border-color: rgb(255, 255, 255);
+    border: 2px;
+    border-style: double;
+    padding: 22px;
+
+}
