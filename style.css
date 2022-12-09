@@ -52,20 +52,22 @@ main > .intro {
     position: relative;
     animation: myAnim1 3s ease 3s 1 normal forwards;
     color: #ffffff;
-    margin: 1.5 rm;
+    padding: 0.5em autp;
+	margin: 1em auto;
 	
    
     
 }
 
 main > .tagline {
-	font-size: 1.5rem;
-	margin: 1.5rem 0;
+	font-size: 1.5em;
 	font-weight: 100;
     position: relative;
     animation: myAnim1 3s ease 3s 1 normal forwards;
     color: #ffffff;
-    
+    padding: 0.5em 2em;
+	margin: 1em auto;
+	
     
 }
 
@@ -86,4 +88,9 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+
+.icons-social {
+	padding: 10px;
+	margin: 5em;
 }
