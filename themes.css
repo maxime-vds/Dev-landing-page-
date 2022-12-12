@@ -4,6 +4,7 @@
 .nn {
     /*color: #ffffff;*/
     background-image: url(nn.jpg);
+	background-attachment: fixed;
     opacity: 0.8;
     width: 100%;
     /*max-width: auto;*/
