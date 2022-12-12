@@ -10,7 +10,7 @@
     animation: myAnim 3s ease 0s 1 normal forwards;
     /*overflow: hidden;
     /*background-size: cover;*/
-    position: fixed;
+    position: fixed | relative;
 }
 
 main {
