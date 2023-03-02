@@ -1,6 +1,6 @@
 # Dev-landing-page-
 <h4> This my project to introduct me. </h4>
-- the link -> https://maxime-vds.github.io/max-vds/
+-  The link -> https://maxime-vds.github.io/max-vds/
 
 # tech 
 This page have an nice design create by CSS and HTML. 
